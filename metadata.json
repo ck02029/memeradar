@@ -1,0 +1,5 @@
+{
+  "name": "MemeRadar",
+  "description": "A real-time meme coin data aggregator visualizing live data from DEX sources with efficient client-side caching and simulated socket updates.",
+  "requestFramePermissions": []
+}
