@@ -3,9 +3,6 @@
 
 A high-performance, full-stack crypto data aggregator that merges real-time data from multiple decentralized exchanges (DEXs) into a single, unified feed. Built with a focus on **Scalability**, **Resilience**, and **Zero-Latency UX**.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Production_Ready-green.svg)
-
 ---
 
 ## 🏗 Architecture Design
