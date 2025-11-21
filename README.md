@@ -164,3 +164,7 @@ Retrieve the aggregated list of tokens.
 *   **Backend:** Fastify, WebSocket (`ws`)
 *   **Data:** Redis (Pub/Sub & Caching)
 *   **Async:** BullMQ, Node-Cron
+  
+## 🎬 Demo Video
+[Click here to watch the YouTube demo](https://youtu.be/PNQZb7s384s)
+
